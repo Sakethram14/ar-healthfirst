@@ -1,7 +1,7 @@
 # AR HealthFirst
 ### AI-powered medicine safety assistant for elderly patients
 
-Built with Amazon Nova on AWS for the Amazon Nova AI Hackathon.
+Built with Amazon Nova on AWS for the Amazon Nova AI Hackathon hosted on Devpost.
 
 ## The Problem
 300 million elderly patients in India misread medicine labels daily.
