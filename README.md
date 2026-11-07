@@ -3,6 +3,7 @@
 
 Built with Amazon Nova on AWS for the Amazon Nova AI Hackathon hosted on Devpost.
 
+
 ## The Problem
 300 million elderly patients in India misread medicine labels daily.
 Wrong dosage, dangerous combinations, and missed interactions cause
